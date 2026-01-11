@@ -23,6 +23,19 @@ Large Language Models (LLMs) like ChatGPT and Claude are revolutionizing coding,
 
 ---
 
+## 🎥 Demo Video
+Watch Sentinel in action as we detect a live typosquatting attack in seconds.
+
+<div align="center">
+  <a href="https://youtu.be/ie58FF3tC6o">
+    <img src="https://img.youtube.com/vi/ie58FF3tC6o/0.jpg" alt="Sentinel Demo Video" width="600" />
+  </a>
+  <br>
+  <em>Click the image above or <a href="https://youtu.be/ie58FF3tC6o">watch on YouTube</a></em>
+</div>
+
+---
+
 ## ⚙️ How It Works (The Algorithm)
 
 Our engine utilizes a multi-layered approach to verify package integrity:
